@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25800241-fe20-4258-b87f-b36e9fd0e9c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_4_22,_17_14_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_4_22__17_14__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/configuration/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/configuration/Configuration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Supplier.java" afterDir="false" />
+    <list default="true" id="25800241-fe20-4258-b87f-b36e9fd0e9c7" name="Changes" comment="added methods">
       <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/services/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/services/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/services/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/services/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/services/SupplierService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/services/SupplierService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +122,16 @@
       <workItem from="1651560690738" duration="12545000" />
       <workItem from="1651818676700" duration="13261000" />
       <workItem from="1651898649332" duration="6259000" />
+      <workItem from="1652169160733" duration="1460000" />
     </task>
+    <task id="LOCAL-00001" summary="added methods">
+      <created>1652169371453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652169371453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,5 +147,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="added methods" />
   </component>
 </project>

@@ -61,7 +61,8 @@ public class CustomerService implements AutoCloseable{
         EntityManager entityManager = entityManagerFactory.createEntityManager();
         entityManager.getTransaction().begin();
         entityManager.createQuery("update Customer  c set c.fullName = :fullName, c.phoneNumber = :phoneNumber where c.id = :id")
-                .setParameter("fullName", newCustomer.getPhoneNumber())
+                .setParameter("fullName", newCustomer.getFullName())
+                .setParameter("phoneNumber", newCustomer.getPhoneNumber())
                 .setParameter("id", customerId).executeUpdate();
         entityManager.getTransaction().commit();
         entityManager.close();
